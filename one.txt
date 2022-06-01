@@ -3,3 +3,7 @@ good night
 good evening
 good afternoon
 thank you
+welcome
+sorry
+its ok
+hai
